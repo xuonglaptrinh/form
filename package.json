@@ -1,0 +1,16 @@
+{
+  "name": "contactForm",
+  "version": "0.0.1",
+  "description": "Contact form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NgaNguyenDuy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.8.1",
+    "ejs": "^1.0.0",
+    "express": "^4.9.0"
+  }
+}
